@@ -1,0 +1,32 @@
+#formOne{
+  font-size: xx-large;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: rgb(75, 219, 18);
+  margin-top: 200px;
+} 
+
+.bg-danger{
+ margin-left: 1090px;
+} 
+
+.bg-danger:hover{
+  color: white;
+}
+
+.cover{
+  display: flex;
+  margin-top: 30px;
+}
+
+.container{
+  background-color: pink;
+  height: 300px;
+}
+
+.dark{
+  color: black;
+}
+
+.end{
+  color: black;
+}
